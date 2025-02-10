@@ -1,3 +1,6 @@
+// This is not my code, it was obtained from: 
+// https://www.instructables.com/How-to-Play-Music-on-Arduino-The-Mandalorian-Theme/
+
 // NB: ALL NOTES DEFINED WITH STANDARD ENGLISH NAMES, EXCEPT FROM "A" 
 //THAT IS CALLED WITH THE ITALIAN NAME "LA" BECAUSE A0,A1...ARE THE ANALOG PINS ON ARDUINO.
 // (Ab IS CALLED Ab AND NOT LAb)
